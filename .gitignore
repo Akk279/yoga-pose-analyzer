@@ -1,0 +1,14 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore system files
+__pycache__/
+*.pyc
+
+# Ignore model weights or large files (optional)
+*.h5
+*.keras
+
+# Ignore environment config
+.env
