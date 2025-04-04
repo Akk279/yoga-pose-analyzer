@@ -24,8 +24,8 @@ A Python GUI application that detects yoga poses using your webcam and a trained
 ## Model
 Ensure the file `yoga_pose_classifier.keras` is in the root folder.
 
-## Support Us
-If you love the app, support us via our [Amazon Wishlist](https://your-amazon-link).
+## Support Us is a demo link we added just to show the app has a monetization option
+ " If you love the app, support us via our [Amazon Wishlist](https://your-amazon-link). " 
 
 ## License
 MIT License
